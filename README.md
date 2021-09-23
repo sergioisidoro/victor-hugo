@@ -1,4 +1,4 @@
-# Victor Hugo
+# Victor Hugo NotreDame 
 
 **A Hugo boilerplate for creating truly epic websites**
 
@@ -12,7 +12,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 ### :exclamation: Prerequisites
 
-You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use Victor Hugo.
+You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use Victor Hugo Notredame
 
 Next step, clone this repository and run:
 
