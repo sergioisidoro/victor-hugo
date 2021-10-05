@@ -8,6 +8,8 @@ title = "My new Victor-Hugo Notredame site"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+enableRobotsTXT = true
+
 # SEO tools
 [params]
     description = "A description for Search Engines to find your site!"

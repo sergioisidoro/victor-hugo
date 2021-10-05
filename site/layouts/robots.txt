@@ -1,0 +1,4 @@
+User-agent: *
+{{ range .Pages }}{{ if .Params.hidden }}
+Disallow: {{ .RelPermalink }}{{ end }}{{ end }}
+Sitemap: {{.Site.BaseURL}}sitemap.xml
