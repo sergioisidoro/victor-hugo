@@ -1,10 +1,10 @@
 ---
-title: 'tech'
+title: 'This is a supper tech article title'
 date: 2018-11-14T19:02:50-07:00
+summary: "This is a summary of what's going on in the article for search engines"
 draft: false
 ---
-
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+# [Victor Hugo Notredame](https://github.com/sergioisidoro/victor-hugo-notredame)
 
 ## A Hugo boilerplate for creating truly epic websites
 

@@ -1,5 +1,12 @@
+{{ define "title" }} 
+<title>{{- .Title -}}</title>
+<meta name="description" content="{{- .Summary -}}">
+{{end}}
+
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
-<article class="content">
+<article class="main">
+  <h1>{{- .Title -}}</h1>
+  <summary>{{- .Summary -}}</summary>
   <main>{{- .Content -}}</main>
 </article>
 {{ end }}
